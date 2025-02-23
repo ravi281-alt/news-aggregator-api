@@ -1,0 +1,40 @@
+Laravel 
+=======
+
+-> Topics :
+	1) MVC structure
+	2) Authentication & Authorization
+	3) Routings
+	4) Middleware
+	5) Migrations
+	6) CSRF Token
+	7) Elequent ORM
+	
+	
+	Task :
+	1) Create registration form with following fields.
+	 - Full Name
+	 - Mobile Number
+	 - Email Id
+	 - Password
+	 - Confirm Password
+	 - Captcha
+	 - Term & Cond Checkbox
+	 
+	 Frontend and Backend validation.
+	 
+	 2) User login Page:
+	  - login with email id / mobile number
+	  - Password
+	  - Remember Me
+	  
+	 3) Admin Login Page :	
+		- email id
+	
+	 4) User Dashboard :
+		- All Users
+		- My Profile
+		
+	 5) Admin Dashboard:
+	  - All Users
+	  - All User Edit and Delete functionality

@@ -6,6 +6,7 @@ It allows users to set preferences and retrieve articles based on their interest
 
 ## Features
 User authentication (Register, Login, Logout)  
+Command to fetch articles from different sources (fetch:news {source})
 CRUD operations for user preferences  
 Article search and filtering  
 API documentation using Swagger  
